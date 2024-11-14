@@ -1,5 +1,5 @@
+# EXNO2 EDA Analysis using PythonAssignment
 
-# EXNO2DS
 # Name: Piritharaman R
 # Reg no: 212223230148
 
